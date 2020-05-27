@@ -1,2 +1,2 @@
 # First-Project-Koki
-This is my first project every so I may not be very experienced.
+This is my first project ever so I may not be very experienced.
